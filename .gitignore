@@ -1,0 +1,17 @@
+# Backend Python
+backend/venv/
+backend/.venv/
+backend/instance/
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+
+# Frontend React
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Sistema / editores
+.DS_Store
+*.log
+.env
